@@ -10,12 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "*",
+    "axios": "^1.1.3",
     "axios-mock-adapter": "*",
     "colors": "*",
-    "cors": "*",
+    "cors": "^2.8.5",
     "express": "^5.0.0-alpha.8",
-    "jsonschema": "*",
+    "jsonschema": "^1.4.1",
     "supertest": "*"
   }
 }
